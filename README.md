@@ -17,6 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning about time complexity the hard way](https://yashyaks.hashnode.dev/learning-about-time-complexity-the-hard-way)
+- [Data Science as an Aide in Making Manegerial Decisions](https://yashyaks.hashnode.dev/data-science-as-an-aide-in-making-manegerial-decisions)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

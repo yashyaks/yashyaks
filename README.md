@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How Data Science can help in energy transition](https://yashyaks.hashnode.dev/how-data-science-can-help-in-energy-transition)
 - [Learning about time complexity the hard way](https://yashyaks.hashnode.dev/learning-about-time-complexity-the-hard-way)
 - [Data Science as an Aide in Making Manegerial Decisions](https://yashyaks.hashnode.dev/data-science-as-an-aide-in-making-manegerial-decisions)
 <!-- BLOG-POST-LIST:END -->

@@ -26,7 +26,6 @@
 <a href="https://hashnode.com/@yashyaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@yashyaks" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yashyaks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashyaks" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@yashyaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yashyaks" height="30" width="40" /></a>
-<a href="/https://yashyaks.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://yashyaks.hashnode.dev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

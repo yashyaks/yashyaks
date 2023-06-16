@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yash Thakar</h1>
-<h3 align="center">Data Science student by day, Machine Learning enthusiast by night </h3>
-<h3 align="center">transforming data into knowledge, one byte and pun at a time </h3>
+<h4 align="center">Data Science student by day, Machine Learning enthusiast by night </h4>
+<h4 align="center">transforming data into knowledge, one byte and pun at a time </h4>
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashyaks](https://github.com/yashyaks)
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yashthakar2710@gmail.com**
 
-- ⚡ Fun fact **Scatter plots get jealous of my ability to find meaningful connections in a sea of dots.**
+- ⚡ Fun fact about me **Scatter plots get jealous of my ability to find meaningful connections in a sea of dots.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

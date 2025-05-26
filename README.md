@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Thakar</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
-<img align="right" alt="GIF" src="technologist.png" width="200" height="200" />
+<img align="right" src="technologist.png" width="150" height="150" />
 
 - 👨‍💻 All of my projects are available at [yashyaks.github.io/#/projects](yashyaks.github.io/#/projects)
 

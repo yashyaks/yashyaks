@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Thakar</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<h3 align="center">I am an aspiring Data Scientist</h3>
 <!-- <img align="right" src="developer.png" width="266" height="200"/> -->
 
 - 👨‍💻 All of my projects are available at [yashyaks.github.io/#/projects](https://yashyaks.github.io/#/projects)
